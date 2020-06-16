@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# git files to ignore
+personal_git
+personal_git.pub
+.gitignore
